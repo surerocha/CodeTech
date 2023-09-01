@@ -1,9 +1,9 @@
 <h2>QR Tech</h2> 
 
 <h6>Cabeçalho</h6>
-1- O que é o CBL <br>
-2- Big Idea e Challenge <br>
-3- O que oferecemos <br>
+1. O que é o CBL <br>
+2. Big Idea e Challenge <br>
+3. O que oferecemos <br>
 
 
 <h6>O que é o CBL</h6>
@@ -15,6 +15,7 @@
 <h6>O que nossa Solução proporciona?</h6>
 
 <p> Nosso objetivo é superar os desafios enfrentados, permitindo que todos usufruam ao máximo dos recursos do refeitório, sendo assim: <br>
+  
 -  Acesso simplificado ao cardápio digital. <br>
 -  Acesso ao QR Code que possibilita o uso do refeitório academico <br>
 -  Monitoramento em tempo real dos créditos disponíveis. <br>
@@ -27,3 +28,19 @@ Por ser desenvolvido para fins academicos durante o Foundation (programa ofertad
 
 <h6>Fluxo de Usuário</h6>
 <img width="862" alt="UserFlow" src="https://github.com/surerocha/CodeTech/assets/112733274/84496322-d83e-40c2-9ff0-5a4e2fd03397">
+
+<h6>Status do Projeto</h6>
+<img width="13" alt="EmDesenvolvimento" src="https://github.com/surerocha/CodeTech/assets/112733274/22e9d84b-328e-4f1b-88dd-311a06e1c2f6">
+Em desenvolvimento
+<!--https://img.icons8.com/?size=2x&id=sqtFXLm3EutZ&format=png -> p qnd ficar pronto-->
+
+<h6>Equipe</h6>
+
+<p> 
+  
+- [Guilherme Freitas]("link") <br>
+- [Kailane Gomes]("link") <br>
+- [Sure Rocha]("link") <br>
+- [Thalita Rodrigues]("link") <br>
+
+</p>
