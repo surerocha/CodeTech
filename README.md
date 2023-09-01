@@ -1,6 +1,9 @@
 <h2>QR Tech</h2> 
 
-##Cabeçalho
+<h6>Cabeçalho</h6>
+1- O que é o CBL <br>
+2- Big Idea e Challenge <br>
+3- O que oferecemos <br>
 
 
 <h6>O que é o CBL</h6>
@@ -9,20 +12,16 @@
 <h6>Big Idea e Challenge</h6>
 <p>O desenvolvimento deste aplicativo foi inspirado pela necessidade de tornar o uso do refeitório acadêmico mais amigável tanto para os servidores quanto para os alunos. A nossa principal preocupação foi abordar os desafios envolvidos em simplificar os processos relacionados ao uso do refeitório.</p>
 
-<h6>O que oferecemos</h6>
+<h6>O que nossa Solução proporciona?</h6>
 
-<p> 
+<p> Nosso objetivo é superar os desafios enfrentados, permitindo que todos usufruam ao máximo dos recursos do refeitório, sendo assim: <br>
 -  Acesso simplificado ao cardápio digital. <br>
+-  Acesso ao QR Code que possibilita o uso do refeitório academico <br>
 -  Monitoramento em tempo real dos créditos disponíveis. <br>
 -  Plataforma integrada para avaliações, promovendo a melhoria contínua da qualidade das refeições. <br> </p>
+-  Interface intuitiva e eficiente. <br> </p>
 
+<h6>Linguagem</h6>
 
+Por ser desenvolvido para fins academicos durante o Foundation (programa ofertado pela Apple Academy em parceria ao IFCE), esse software foi utiliza a linguagem de programação [Swift(iOS)]("https://www.apple.com/br/swift/"), com foco em dispositivos mobile.
 
-
-
-<!--O aplicativo "QR Tech" é uma ferramenta que visa aprimorar a experiência de alunos e funcionários que frequentam o refeitório acadêmico. Nossa solução aborda diversas necessidades essenciais, como:
-
-
-Através de uma interface intuitiva e eficiente, nosso objetivo é superar os desafios enfrentados, permitindo que todos usufruam ao máximo dos recursos do refeitório. Para garantir a excelência, o aplicativo será desenvolvido utilizando a linguagem Swift (iOS), com um foco direcionado para dispositivos móveis. Junte-se a nós nessa jornada em direção a uma experiência de refeitório aprimorada e eficaz.
-
-O aplicativo "QR Tech" foi desenvolvido durante o Foundation, programa ofertado pela Apple Academy em parceria ao IFCE.
