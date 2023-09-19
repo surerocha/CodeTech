@@ -29,6 +29,11 @@ Por ser desenvolvido para fins academicos durante o Foundation (programa ofertad
 <h6>Fluxo de Usuário</h6>
 <img width="862" alt="UserFlow" src="https://github.com/surerocha/CodeTech/assets/112733274/84496322-d83e-40c2-9ff0-5a4e2fd03397">
 
+<h6>Diagrama de Classes</h6>
+<img alt="DiagramaDeClasses" src="https://github.com/surerocha/CodeTech/assets/126790749/849e8c1f-043f-4012-bd93-8b262e13de78">
+
+
+
 <h6>Status do Projeto</h6>
 <img width="13" alt="EmDesenvolvimento" src="https://github.com/surerocha/CodeTech/assets/112733274/22e9d84b-328e-4f1b-88dd-311a06e1c2f6">
 Em desenvolvimento
