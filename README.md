@@ -1,4 +1,4 @@
-<h2>QR Tech</h2> 
+<h2>MenuTech</h2> 
 
 <h6>Cabeçalho</h6>
 1. [O que é o CBL]("https://github.com/surerocha/CodeTech/tree/main#o-que-é-o-cbl")  <br>
@@ -24,7 +24,7 @@
 
 <h6>Linguagem</h6>
 
-Por ser desenvolvido para fins academicos durante o Foundation (programa ofertado pela Apple Academy em parceria ao IFCE), esse software foi utiliza a linguagem de programação [Swift]("https://www.apple.com/br/swift/"), com foco em dispositivos mobile.
+Por ser desenvolvido para fins academicos durante o Foundation (programa ofertado pela Apple Academy em parceria ao IFCE), esse software utiliza a linguagem de programação [Swift]("https://www.apple.com/br/swift/"), com foco em dispositivos mobile.
 
 <h6>Fluxo de Usuário</h6>
 <img width="862" alt="UserFlow" src="https://github.com/surerocha/CodeTech/assets/112733274/84496322-d83e-40c2-9ff0-5a4e2fd03397">
