@@ -17,9 +17,7 @@
 <p> Nosso objetivo é superar os desafios enfrentados, permitindo que todos usufruam ao máximo dos recursos do refeitório, sendo assim: <br>
   
 -  Acesso simplificado ao cardápio digital. <br>
--  Acesso ao QR Code que possibilita o uso do refeitório academico <br>
--  Monitoramento em tempo real dos créditos disponíveis. <br>
--  Plataforma integrada para avaliações, promovendo a melhoria contínua da qualidade das refeições. <br> </p>
+-  Plataforma integrada para avaliações, promovendo a melhoria contínua da qualidade das refeições. <br>
 -  Interface intuitiva e eficiente. <br> </p>
 
 <h6>Linguagem</h6>
